@@ -7,7 +7,7 @@ This Library is, at all stakes, a fascinating adventure which you've just joined
 
 My name is Saga, and I will be guiding you throughout this process of discovery, analysis and, of course, reading.
 
-Our main hall is called the [*Nexus*](https://github.com/The-Library-of-Times/Nexus/README.md) as it connects the remaining chambers and rooms of our beloved library.
+Our main hall is called the [*Nexus*](https://github.com/The-Library-of-Times/Nexus) as it connects the remaining chambers and rooms of our beloved library.
 
 ## Chambers in The Library
 Our Library is composed of five main chambers:
